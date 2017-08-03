@@ -1,0 +1,1 @@
+Sample app to search books on iTunes Store using React, Redux
